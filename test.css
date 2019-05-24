@@ -1,0 +1,21 @@
+
+
+.header{
+	background-color: #0000ff;
+	padding: 40px;
+	text-align: center;
+}
+.h1{
+	font-size: 90px;
+	color: white;
+}
+header img{
+	border-radius: 150px;
+	
+
+}
+/*<header>
+	<img src="https://upload.wikimedia.org/wikipedia/en/5/5f/TomandJerryTitleCardc.jpg">
+	<H1> A Tom $ jerry project <h1/>
+	</header>*/
+	
